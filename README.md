@@ -9,4 +9,4 @@ Created by: Irene Treesa Martin
 
 Tool used: Python Turtle
 
-**NOTE: The screenshot and demo video are uploaded in this repository.
+##**NOTE: The screenshot and demo video are uploaded in this repository.
