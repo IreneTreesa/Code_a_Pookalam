@@ -1,2 +1,4 @@
 # Code_a_Pookalam
-Code a Pookalam 2025 submission using Python Turtle
+Event: Code a Pookalam 2025
+Created by: Irene Treesa Martin
+Tool used: Python Turtle
